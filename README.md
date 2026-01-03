@@ -8,6 +8,7 @@ Ky projekt është një portal për studentë që ofron qasje të thjeshtë në 
 Projektin e kam ndërtuar edhe me një version të thjeshtë të faqes së shërbimeve në React.
 
   -Struktura e projektit-
+  
 index.html
 services.html
 applications.html
@@ -25,21 +26,21 @@ react-version/
   Services.css
 
 
-  -Teknologjitë e përdorura-
-HTML5 & CSS3 – Strukturë semantike, Flexbox, Grid, gradients, shadows, transitions
-JavaScript & jQuery – Validim formash, njoftime dinamike, DOM manipulation
-React – Komponent për shërbime
+  -Teknologjitë e përdorura:
+HTML5 & CSS3 – Strukturë semantike, Flexbox, Grid, gradients, shadows, transitions. 
+JavaScript & jQuery – Validim formash, njoftime dinamike, DOM manipulation. 
+React – Komponent për shërbime.
 
 
   -Funksionalitet kryesor-
-Navigim mes 5 faqeve
-Forma aplikimi dhe kontakti me validim dhe mesazhe feedback
-Njoftime dinamike me array dhe jQuery
-Dizajn modern me cards, gradients dhe shadows
-Version React për faqen e shërbimeve
+Navigim mes 5 faqeve,
+forma aplikimi dhe kontakti me validim dhe mesazhe feedback,
+njoftime dinamike me array dhe jQuery,
+dizajn modern me cards, gradients dhe shadows,
+version React për faqen e shërbimeve.
 
   
   -Si ta përdorni-
-Klono repo-n ose shkarko si ZIP
-Hap index.html në browser
+Klono repo-n ose shkarko si ZIP =>
+Hap index.html në browser =>
 Shiko faqet dhe funksionalitetet
