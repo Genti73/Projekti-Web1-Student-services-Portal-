@@ -9,25 +9,27 @@ Projektin e kam ndërtuar edhe me një version të thjeshtë të faqes së shër
 
   -Struktura e projektit-
   
-index.html
+  index.html
 
-services.html
+  services.html
 
-applications.html
+  applications.html
 
-announcements.html
+  announcements.html
 
-contact.html
+  contact.html
 
-css/
-  style.css
+  css/
+    style.css
 
-js/
-  main.js
+  js/
+    main.js
 
-react-version/
-  Services.jsx
-  Services.css
+  react-version/
+    Services.jsx
+  
+   Services.css
+  
 
 
   -Teknologjitë e përdorura:
@@ -36,7 +38,7 @@ JavaScript & jQuery – Validim formash, njoftime dinamike, DOM manipulation.
 React – Komponent për shërbime.
 
 
-  -Funksionalitet kryesor-
+  -Funksionalitet kryesor:
   
 Navigim mes 5 faqeve,
 forma aplikimi dhe kontakti me validim dhe mesazhe feedback,
