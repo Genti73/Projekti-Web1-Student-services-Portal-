@@ -10,9 +10,13 @@ Projektin e kam ndërtuar edhe me një version të thjeshtë të faqes së shër
   -Struktura e projektit-
   
 index.html
+
 services.html
+
 applications.html
+
 announcements.html
+
 contact.html
 
 css/
@@ -33,6 +37,7 @@ React – Komponent për shërbime.
 
 
   -Funksionalitet kryesor-
+  
 Navigim mes 5 faqeve,
 forma aplikimi dhe kontakti me validim dhe mesazhe feedback,
 njoftime dinamike me array dhe jQuery,
@@ -41,6 +46,7 @@ version React për faqen e shërbimeve.
 
   
   -Si ta përdorni-
+  
 Klono repo-n ose shkarko si ZIP =>
 Hap index.html në browser =>
 Shiko faqet dhe funksionalitetet
