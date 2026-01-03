@@ -1,10 +1,10 @@
   -Student Services Portal-
   
 Ky projekt është një portal për studentë që ofron qasje të thjeshtë në shërbime akademike. Përdoruesi mund të:
-  Shikojë shërbimet e universitetit
-  Bëjë aplikime online
-  Lexojë njoftime të rëndësishme
-  Kontaktojë mbështetjen e studentëve
+  Shikojë shërbimet e universitetit,
+  bëjë aplikime online,
+  lexojë njoftime të rëndësishme,
+  kontaktojë mbështetjen e studentëve.
 Projektin e kam ndërtuar edhe me një version të thjeshtë të faqes së shërbimeve në React.
 
   -Struktura e projektit-
